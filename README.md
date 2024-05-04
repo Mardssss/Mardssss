@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm just starting out in the world of programming,
 
 ## 📫 How to reach me
 
-- **Discord:** [YourEmail@example.com](mailto:yourEmail@example.com) (Feel free to contact me for collaborations or opportunities!)
+- **Discord:** 
 
 ## 🛠 Skills
 - **Languages:** Java, C#, PHP, JavaScript
