@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hi, I’m @Mardssss
 
-<!--
-**Mardssss/Mardssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm just starting out in the world of programming, and I'm eager to learn and grow my skills in various technologies.
 
-Here are some ideas to get you started:
+## 👀 I’m interested in
+- Web Development
+- Software Engineering
+- Building and exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 I’m currently focusing
+- **Minecraft Plugin Development:** I'm currently immersed in developing Minecraft plugins, sharpening my skills in creating cool plugins, and interacting with Spigot and Bukkit APIs.
+
+
+## 💞️ I’m looking to collaborate on
+- Small to medium-sized projects that will help me grow as a developer.
+- Projects involving Java, where I can both contribute and learn from more experienced developers.
+
+## 📫 How to reach me
+
+- **Discord:** [YourEmail@example.com](mailto:yourEmail@example.com) (Feel free to contact me for collaborations or opportunities!)
+
+## 🛠 Skills
+- **Languages:** Java, C#, PHP, JavaScript
+- **Frameworks/Libraries:** Node.js (Basic)
+- **Databases:** MySQL
+- **Web Technologies:** HTML, CSS,Bootstrap
