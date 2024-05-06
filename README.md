@@ -1,27 +1,21 @@
-# 👋 Hi, I’m @Mardssss
+<h1 align="center">Hi 👋, I'm mard</h1>
+<h3 align="center">A passionate for tech</h3>
 
-Welcome to my GitHub profile! I'm just starting out in the world of programming, and I'm eager to learn and grow my skills in various technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mardssss&label=Profile%20views&color=0e75b6&style=flat" alt="mardssss" /> </p>
 
-## 👀 I’m interested in
-- Web Development
-- Software Engineering
-- Building and exploring new technologies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mardssss" alt="mardssss" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/mard2364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mard2364" height="30" width="40" /></a>
+</p>
 
-## 📚 I’m currently focusing
-- **Minecraft Plugin Development:** I'm currently immersed in developing Minecraft plugins, sharpening my skills in creating cool plugins, and interacting with Spigot and Bukkit APIs.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mardssss&show_icons=true&locale=en&layout=compact" alt="mardssss" /></p>
 
-## 💞️ I’m looking to collaborate on
-- Small to medium-sized projects that will help me grow as a developer.
-- Projects involving Java, where I can both contribute and learn from more experienced developers.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mardssss&show_icons=true&locale=en" alt="mardssss" /></p>
 
-## 📫 How to reach me
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mardssss&" alt="mardssss" /></p>
 
-- **Discord:** 
-
-## 🛠 Skills
-- **Languages:** Java, C#, PHP, JavaScript
-- **Frameworks/Libraries:** Node.js (Basic)
-- **Databases:** MySQL
-- **Web Technologies:** HTML, CSS,Bootstrap
